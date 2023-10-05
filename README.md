@@ -1,2 +1,2 @@
 # carsoncarmody.com
-My Website
+My Website - Built in HTML/CSS using Bootstrap as the framework.
